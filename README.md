@@ -38,7 +38,7 @@ git clone https://github.com/vadushkin/notification_api_service.git
 ```
 ### Перейти в директорию:
 ```
-cd notification
+cd notification_api_service
 ```
 ### Использование на локальном сервере
 ```
