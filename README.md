@@ -32,6 +32,7 @@
 ***
 
 ## Запуск проекта
+Использовал Python 3.10 и Django 3.2.12
 ### Склонировать репозиторий:
 ```
 git clone https://github.com/vadushkin/notification_api_service.git
