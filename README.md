@@ -40,7 +40,15 @@ git clone https://github.com/vadushkin/notification_api_service.git
 ```
 cd notification_api_service
 ```
-### Использование на локальном сервере
+### Создать виртуальную среду
+```
+python -m venv venv
+```
+### Перейти в виртуальную среду
+```
+venv\Scripts\activate
+```
+### Установить все зависимости
 ```
 pip install -r requirements.txt
 ```
